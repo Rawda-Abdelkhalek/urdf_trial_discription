@@ -47,6 +47,5 @@
          </plugin>
      </sensor> 
 </gazebo>
-</robot>
 
     </robot>
